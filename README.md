@@ -51,9 +51,7 @@ src
        └── home.jsp
 ⚙️ Setup Instructions
 
-Clone the repository
 
-git clone https://github.com/your-username/spring-mvc-user-authentication.git
 
 Import the project into Eclipse / IntelliJ IDEA as a Maven project.
 
@@ -72,9 +70,7 @@ Update database credentials in the configuration file.
 
 Run the project on Apache Tomcat Server.
 
-Open in browser:
 
-http://localhost:8080/project-name
 🎯 Purpose of the Project
 
 This project was created to practice:
